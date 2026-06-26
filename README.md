@@ -43,7 +43,9 @@ python caesar_cipher.py
 
 ===== Caesar Cipher =====
 Enter mode (encrypt/decrypt): encrypt
+
 Enter your message: Hello World
+
 Enter shift value: 3
 
 Result: Khoor Zruog
@@ -53,7 +55,9 @@ Result: Khoor Zruog
 
 ===== Caesar Cipher =====
 Enter mode (encrypt/decrypt): decrypt
+
 Enter your message: Khoor Zruog
+
 Enter shift value: 3
 
 Result: Hello World
