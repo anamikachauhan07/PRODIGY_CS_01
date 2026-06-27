@@ -20,12 +20,6 @@ Create a Python program that can encrypt and decrypt text using the Caesar Ciphe
 
 * Python 3
 
-## 📂 Project Structure
-
-PRODIGY_CS_01/
-├── caesar_cipher.py
-└── README.md
-
 ## ▶️ How to Run
 
 ### Clone the Repository
